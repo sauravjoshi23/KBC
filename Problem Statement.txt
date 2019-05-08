@@ -1,0 +1,6 @@
+Problem Statement:
+
+This is a QUIZ GAME.The user has two options ‘S’ to start the game and ‘Q’ to quit. Once the game has started,the user will face the trial round (in order to play the main game). Once the trial has started the user cannot quit.
+Criteria:The user will have to get atleast 2 question correct out of 3. If not then the user gets another chance to play the trial round. 
+Once the main game starts,the user will encounter 10 questions and will be asked to set 2 levels in order to secure the cash prize at those levels.(Any 2 distinct levels from 1-10 except 1 and 10). 
+The minimum that he can win is 0 if he gets question wrong before or at 1st level and maximum $100000 if he gets all correct.
